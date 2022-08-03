@@ -1,2 +1,2 @@
-# facebook-clone
-frontend clone of facebook's login page
+# facebook-login-page
+facebook login page built using tailwind CSS
